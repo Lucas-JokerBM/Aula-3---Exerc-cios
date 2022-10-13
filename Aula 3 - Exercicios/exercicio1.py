@@ -32,34 +32,6 @@
 # false porque resultado da soma é = a 12 e não > que 12
 
 
-# exercício 2 - Condicional simples
-
-# a) se idade > 60, escreva: 'você tem direito aos benefícios'
-# b) se dano > 10 e escudo = 0, escreva: 'você está morto!'
-# c) se 1 das variáveis booleanas norte, sul, leste, oeste resultarem True, escreva: 'você escapou!'
-
-# a
-# idade = int(input('Digite sua idade: '))
-# if idade > 60:
-#     print('Você tem direito aos benefícios!')
-# else:
-#     print('Vai trabalhar mais!')
-
-# b
-# dano = int(input('Dano recebido: '))
-# escudo = int(input('Quantidade de escudo: '))
-# if dano > 10 and escudo == 0:
-#     print('Você morreu!')
-# else:
-#     print('Você está vivo!')
-
-
-# c
-# if (norte == True or sul == True or leste == True or leste == True):
-#     print('Você escapou!')
-
-# if (norte or sul  or leste  or leste):
-#     print('Você escapou!')
 
 
 # exercício 3 - condicional composta
