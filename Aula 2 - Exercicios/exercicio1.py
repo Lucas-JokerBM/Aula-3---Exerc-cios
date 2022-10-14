@@ -17,3 +17,4 @@ print('Valor calculado de desconto : %.2f. Valor final do produto: %.2f' % (desc
 # Forma 2 de concatenação
 print('O preço do produto é {}. Desconto de {}%.' .format(preco, p))
 print('Valor calculado de desconto: {}. Valor final do produto: {}' .format(desconto, final))
+
