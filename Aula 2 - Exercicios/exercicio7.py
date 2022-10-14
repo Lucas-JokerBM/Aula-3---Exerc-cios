@@ -15,3 +15,4 @@ print('Celsius: %.1f. Fahrenheit: %.1f' % (C, F))
 # Forma 2 de concatenação 
 
 print('Celsius: {}. Fahrenheit: {}' .format(C, F))
+
