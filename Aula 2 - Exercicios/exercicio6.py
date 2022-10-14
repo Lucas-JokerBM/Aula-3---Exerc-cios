@@ -19,3 +19,4 @@ print('Valor calculado de desconto: %.2fR$. Valor final do produto: %.2fR$' % (d
 
 print('O preço do produto é {}R$. Desconto de {}%.' .format(preco, p))
 print('Valor calculado de desconto: {}R$. Valor final do produto: {}R$' .format(desconto, final))
+
